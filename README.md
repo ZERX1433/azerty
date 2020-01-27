@@ -1,2 +1,2 @@
-# azerty
-azerty
+py fortnite.py
+cmd /k
